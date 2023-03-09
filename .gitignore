@@ -5,3 +5,4 @@ VKDating/
 .idea/
 pycache/
 *.pyc
+venv/
